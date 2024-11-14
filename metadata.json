@@ -1,0 +1,10 @@
+{
+  "name": "cim",
+  "creator": "snailify",
+  "description": "ChatItemMenu sequel",
+  "version": "0.0.1",
+  "entry": "index.js",
+  "requires": ["axios", "ListFix", "ClickGui"],
+  "asmEntry": "asm/asm.js",
+  "patchnotes": "&6&lChangelog:\n&a - First Release"
+}

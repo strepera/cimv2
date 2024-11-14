@@ -1,0 +1,87 @@
+[
+
+  {
+    "name": "items",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/items.json"
+  },
+
+  {
+    "disabled": true,
+    "name": "rabbits",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/rabbits.json"
+  },
+  {
+    "disabled": true,
+    "name": "reforgestones",
+    "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/refs/heads/master/constants/reforgestones.json"
+  },
+  {
+    "disabled": true,
+    "name": "skills",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/skills.json"
+  },
+  {
+    "disabled": true,
+    "name": "terminals",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/terminals.json"
+  },
+  {
+    "disabled": true,
+    "name": "visitorwants",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/visitorwants.json"
+  },
+
+  {
+    "name": "bosses",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/bosses.json"
+  },
+  {
+    "name": "monsters",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/monsters.json"
+  },
+  {
+    "name": "npcs",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/npcs.json"
+  },
+  {
+    "disabled": true,
+    "name": "dyes",
+    "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/refs/heads/master/constants/dyes.json"
+  },
+  {
+    "disabled": true,
+    "name": "egglocations",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/egglocations.json"
+  },
+  {
+    "disabled": true,
+    "name": "petnums",
+    "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/refs/heads/master/constants/petnums.json"
+  },
+  {
+    "disabled": true,
+    "name": "fairysouls",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/fairysouls.json"
+  },
+
+  {
+    "disabled": true,
+    "name": "gemstonecosts",
+    "source": "https://raw.githubusercontent.com/NotEnoughUpdates/NotEnoughUpdates-REPO/refs/heads/master/constants/gemstonecosts.json"
+  },
+  {
+    "disabled": true,
+    "name": "mirrorversedata",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/mirrorversedata.json"
+  },
+  {
+    "disabled": true,
+    "name": "seacreatures",
+    "source": "https://raw.githubusercontent.com/hannibal002/SkyHanni-REPO/refs/heads/main/constants/SeaCreatures.json"
+  },
+  {
+    "name": "islands",
+    "source": "https://raw.githubusercontent.com/strepera/cim-repo/refs/heads/main/islanddata.json"
+  }
+
+]
